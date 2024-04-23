@@ -56,13 +56,3 @@ input:focus-visible{
     outline: none;
 }
 
-main{
-    padding-top: 60px;
-    padding-bottom: 60px;
-}
-.banner{
-    height: 500px;
-    width: 100%;
-    border-radius: 20px;
-    background: center no-repeat url("../assets/images/banner.jpg") ;
-}
